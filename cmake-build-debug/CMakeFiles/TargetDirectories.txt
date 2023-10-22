@@ -1,0 +1,9 @@
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/QT_VideoStream_Processing.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/install.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/QT_VideoStream_Processing_autogen_timestamp_deps.dir
+/Users/zhengzhongsun/Documents/code/QT_VideoStream_Processing/QT_VideoStream_Processing/cmake-build-debug/CMakeFiles/QT_VideoStream_Processing_autogen.dir
